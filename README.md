@@ -10,7 +10,7 @@ A simple static site that converts an email input into a pre-filled WhatsApp mes
 
 ## Demo
 
-You can see a live demo of the project here: [Live Demo](https://your-username.github.io/email-to-whatsapp/)
+You can see a live demo of the project here: [Live Demo](https://email-to-whatsapp-ui2fg.kinsta.page/)
 
 ## Installation
 
@@ -19,4 +19,4 @@ To use this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/email-to-whatsapp.git
+   git clone https://github.com/suyashlad/email-to-whatsapp.git
